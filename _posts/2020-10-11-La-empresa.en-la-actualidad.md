@@ -7,6 +7,6 @@ Despues de varios años de desarrollando y creando juguetes por varias decadas, 
 
 ![Consolas]({{ site.baseurl }}/images/Hanafuda.png)
 
-Actualmente vbusca apollar nuevas empresas que tengan un proyecto para publicar sus juegos, crean nuevos juegos con la mejor programacion grafica y la calidad de sonido. En el comercio a nivel mundial en la industria de los videojuegos, con su actual creacion en la generacion de consolas: la Nintendo Switch.
+Actualmente es una de las principales compañias importentes junto con Sony y Microsof, tambien apolla a nuevas empresas que tengan un proyecto para publicar sus juegos, crean nuevos juegos con la mejor programacion grafica y la calidad de sonido. En el comercio a nivel mundial en la industria de los videojuegos, con su actual creacion en la generacion de consolas: la Nintendo Switch.
 
 ![Switch]({{ site.baseurl }}/images/Switch.png)
