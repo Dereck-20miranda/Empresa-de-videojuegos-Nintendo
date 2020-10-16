@@ -11,4 +11,4 @@ Creado en 1981 por el diseñador y productor de videojuegos japonés Shigeru Miy
 
 ![Shigeru Miyamoto]({{ site.baseurl }}/images/Shigeru Miyamoto.png)
 
-Gracias al juego Donkey Kong permitio que Shigeru Miyamoto tenga un papel fundamental en la empresa. Actualmente sigue trabajando en Nintendo, enfocado en crear nuevos proyectos con su mayor creacion reconocido a nivel mundial: Mario.
+Gracias al juego Donkey Kong permitio que Shigeru Miyamoto tenga un papel fundamental en la empresa y garcias a el y gracias a su creacion la empresa consigui ser reconocido en el mercado Estado unidense. Actualmente sigue trabajando en Nintendo, enfocado en crear nuevos proyectos con su mayor creacion reconocido a nivel mundial: Mario.
